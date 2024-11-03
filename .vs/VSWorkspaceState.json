@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\api",
+    "\\src\\auth",
+    "\\src\\components",
+    "\\src\\components\\pages",
+    "\\src\\components\\structure",
+    "\\src\\redux",
+    "\\src\\redux\\reducers"
+  ],
+  "PreviewInSolutionExplorer": false
+}
